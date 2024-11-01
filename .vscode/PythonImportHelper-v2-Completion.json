@@ -1,0 +1,1349 @@
+[
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "chromaterm.platform.unix",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "chromaterm.platform.unix",
+        "description": "chromaterm.platform.unix",
+        "detail": "chromaterm.platform.unix",
+        "documentation": {}
+    },
+    {
+        "label": "atexit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "atexit",
+        "description": "atexit",
+        "detail": "atexit",
+        "documentation": {}
+    },
+    {
+        "label": "fcntl",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "fcntl",
+        "description": "fcntl",
+        "detail": "fcntl",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "pty",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pty",
+        "description": "pty",
+        "detail": "pty",
+        "documentation": {}
+    },
+    {
+        "label": "signal",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "signal",
+        "description": "signal",
+        "detail": "signal",
+        "documentation": {}
+    },
+    {
+        "label": "termios",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "termios",
+        "description": "termios",
+        "detail": "termios",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "tty",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tty",
+        "description": "tty",
+        "detail": "tty",
+        "documentation": {}
+    },
+    {
+        "label": "ctypes",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "CDLL",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "POINTER",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "byref",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "c_char",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "c_size_t",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "c_uint32",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "create_string_buffer",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "CDLL",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "POINTER",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "byref",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "c_char",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "c_size_t",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "c_uint32",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "create_string_buffer",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "msvcrt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "msvcrt",
+        "description": "msvcrt",
+        "detail": "msvcrt",
+        "documentation": {}
+    },
+    {
+        "label": "psutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "psutil",
+        "description": "psutil",
+        "detail": "psutil",
+        "documentation": {}
+    },
+    {
+        "label": "find_library",
+        "importPath": "ctypes.util",
+        "description": "ctypes.util",
+        "isExtraImport": true,
+        "detail": "ctypes.util",
+        "documentation": {}
+    },
+    {
+        "label": "find_library",
+        "importPath": "ctypes.util",
+        "description": "ctypes.util",
+        "isExtraImport": true,
+        "detail": "ctypes.util",
+        "documentation": {}
+    },
+    {
+        "label": "find_library",
+        "importPath": "ctypes.util",
+        "description": "ctypes.util",
+        "isExtraImport": true,
+        "detail": "ctypes.util",
+        "documentation": {}
+    },
+    {
+        "label": "find_library",
+        "importPath": "ctypes.util",
+        "description": "ctypes.util",
+        "isExtraImport": true,
+        "detail": "ctypes.util",
+        "documentation": {}
+    },
+    {
+        "label": "find_library",
+        "importPath": "ctypes.util",
+        "description": "ctypes.util",
+        "isExtraImport": true,
+        "detail": "ctypes.util",
+        "documentation": {}
+    },
+    {
+        "label": "find_library",
+        "importPath": "ctypes.util",
+        "description": "ctypes.util",
+        "isExtraImport": true,
+        "detail": "ctypes.util",
+        "documentation": {}
+    },
+    {
+        "label": "chromaterm.default_config",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "chromaterm.default_config",
+        "description": "chromaterm.default_config",
+        "detail": "chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "MagicMock",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "MagicMock",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "chromaterm.pcre",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "chromaterm.pcre",
+        "description": "chromaterm.pcre",
+        "detail": "chromaterm.pcre",
+        "documentation": {}
+    },
+    {
+        "label": "yaml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml",
+        "description": "yaml",
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "Color",
+        "importPath": "chromaterm",
+        "description": "chromaterm",
+        "isExtraImport": true,
+        "detail": "chromaterm",
+        "documentation": {}
+    },
+    {
+        "label": "Palette",
+        "importPath": "chromaterm",
+        "description": "chromaterm",
+        "isExtraImport": true,
+        "detail": "chromaterm",
+        "documentation": {}
+    },
+    {
+        "label": "Rule",
+        "importPath": "chromaterm",
+        "description": "chromaterm",
+        "isExtraImport": true,
+        "detail": "chromaterm",
+        "documentation": {}
+    },
+    {
+        "label": "Color",
+        "importPath": "chromaterm",
+        "description": "chromaterm",
+        "isExtraImport": true,
+        "detail": "chromaterm",
+        "documentation": {}
+    },
+    {
+        "label": "Palette",
+        "importPath": "chromaterm",
+        "description": "chromaterm",
+        "isExtraImport": true,
+        "detail": "chromaterm",
+        "documentation": {}
+    },
+    {
+        "label": "Rule",
+        "importPath": "chromaterm",
+        "description": "chromaterm",
+        "isExtraImport": true,
+        "detail": "chromaterm",
+        "documentation": {}
+    },
+    {
+        "label": "collections",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "collections",
+        "description": "collections",
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_stdin",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.platform.tests.test_unix",
+        "description": "build.lib.chromaterm.platform.tests.test_unix",
+        "peekOfCode": "def test_get_stdin(monkeypatch):\n    '''Ensure stdin is a file descriptor.'''\n    monkeypatch.setattr(sys.stdin, 'fileno', lambda: 0)\n    assert isinstance(chromaterm.platform.unix.get_stdin(), int)",
+        "detail": "build.lib.chromaterm.platform.tests.test_unix",
+        "documentation": {}
+    },
+    {
+        "label": "create_cwd_watcher",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.platform.unix",
+        "description": "build.lib.chromaterm.platform.unix",
+        "peekOfCode": "def create_cwd_watcher(pid):\n    '''\n    Creates a daemon thread that checks the `cwd` of a process, then updates the\n    `cwd` of the current process.\n    Args:\n        pid (int): PID of the process whose `cwd` is checked.\n    '''\n    def update_cwd():  # pragma: no cover\n        # Covered by `test_main_cwd_tracking` but not detected by coverage\n        # pylint: disable=import-outside-toplevel",
+        "detail": "build.lib.chromaterm.platform.unix",
+        "documentation": {}
+    },
+    {
+        "label": "get_stdin",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.platform.unix",
+        "description": "build.lib.chromaterm.platform.unix",
+        "peekOfCode": "def get_stdin():\n    '''Returns the file descriptor for stdin.'''\n    return sys.stdin.fileno()\ndef run_program(program_args):\n    '''Returns a file descriptor of the bidirectional pipe to the spawned program.\n    Args:\n        program_args (list): A list of program arguments. The first argument is\n            the program name/location.\n    '''\n    try:",
+        "detail": "build.lib.chromaterm.platform.unix",
+        "documentation": {}
+    },
+    {
+        "label": "run_program",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.platform.unix",
+        "description": "build.lib.chromaterm.platform.unix",
+        "peekOfCode": "def run_program(program_args):\n    '''Returns a file descriptor of the bidirectional pipe to the spawned program.\n    Args:\n        program_args (list): A list of program arguments. The first argument is\n            the program name/location.\n    '''\n    try:\n        # Set to raw as the pty will be handling any processing; restore at exit\n        attributes = termios.tcgetattr(sys.stdin.fileno())\n        atexit.register(termios.tcsetattr, sys.stdin.fileno(), termios.TCSANOW,",
+        "detail": "build.lib.chromaterm.platform.unix",
+        "documentation": {}
+    },
+    {
+        "label": "CWD_UPDATE_INTERVAL",
+        "kind": 5,
+        "importPath": "build.lib.chromaterm.platform.unix",
+        "description": "build.lib.chromaterm.platform.unix",
+        "peekOfCode": "CWD_UPDATE_INTERVAL = 1 / 4\ndef create_cwd_watcher(pid):\n    '''\n    Creates a daemon thread that checks the `cwd` of a process, then updates the\n    `cwd` of the current process.\n    Args:\n        pid (int): PID of the process whose `cwd` is checked.\n    '''\n    def update_cwd():  # pragma: no cover\n        # Covered by `test_main_cwd_tracking` but not detected by coverage",
+        "detail": "build.lib.chromaterm.platform.unix",
+        "documentation": {}
+    },
+    {
+        "label": "create_cwd_watcher",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.platform.windows",
+        "description": "build.lib.chromaterm.platform.windows",
+        "peekOfCode": "def create_cwd_watcher(pid):\n    '''\n    Creates a daemon thread that checks the `cwd` of a process, then updates the\n    `cwd` of the current process.\n    Args:\n        pid (int): PID of the process whose `cwd` is checked.\n    '''\n    def update_cwd():\n        try:\n            child_process = psutil.Process(pid)",
+        "detail": "build.lib.chromaterm.platform.windows",
+        "documentation": {}
+    },
+    {
+        "label": "get_stdin",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.platform.windows",
+        "description": "build.lib.chromaterm.platform.windows",
+        "peekOfCode": "def get_stdin():\n    '''Returns stdin for compatibility.'''\n    return sys.stdin\ndef run_program(program_args):\n    '''\n    Runs a program on Windows, setting up pipes for input/output.\n    Args:\n        program_args (list): A list of program arguments.\n    '''\n    # Use Popen for creating a bidirectional pipe",
+        "detail": "build.lib.chromaterm.platform.windows",
+        "documentation": {}
+    },
+    {
+        "label": "run_program",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.platform.windows",
+        "description": "build.lib.chromaterm.platform.windows",
+        "peekOfCode": "def run_program(program_args):\n    '''\n    Runs a program on Windows, setting up pipes for input/output.\n    Args:\n        program_args (list): A list of program arguments.\n    '''\n    # Use Popen for creating a bidirectional pipe\n    process = subprocess.Popen(\n        program_args,\n        stdin=subprocess.PIPE,",
+        "detail": "build.lib.chromaterm.platform.windows",
+        "documentation": {}
+    },
+    {
+        "label": "CWD_UPDATE_INTERVAL",
+        "kind": 5,
+        "importPath": "build.lib.chromaterm.platform.windows",
+        "description": "build.lib.chromaterm.platform.windows",
+        "peekOfCode": "CWD_UPDATE_INTERVAL = 1 / 4\ndef create_cwd_watcher(pid):\n    '''\n    Creates a daemon thread that checks the `cwd` of a process, then updates the\n    `cwd` of the current process.\n    Args:\n        pid (int): PID of the process whose `cwd` is checked.\n    '''\n    def update_cwd():\n        try:",
+        "detail": "build.lib.chromaterm.platform.windows",
+        "documentation": {}
+    },
+    {
+        "label": "pytest_generate_tests",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.tests.conftest",
+        "description": "build.lib.chromaterm.tests.conftest",
+        "peekOfCode": "def pytest_generate_tests(metafunc):\n    '''Run tests with the `pcre` fixture twice; Once with `pcre=False`, another\n    time with `pcre=True` if the library is present.'''\n    if find_library('pcre2-8') and 'pcre' in metafunc.fixturenames:\n        metafunc.parametrize('pcre', [False, True])",
+        "detail": "build.lib.chromaterm.tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "assert_matches",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.tests.test_default_config",
+        "description": "build.lib.chromaterm.tests.test_default_config",
+        "peekOfCode": "def assert_matches(positives, negatives, rule, match_count=1):\n    '''Assert that all positives are matched while negatives are not.'''\n    def permutate_data(data):\n        output = []\n        for entry in data if isinstance(data, list) else [data]:\n            entry = entry.encode()\n            output.append(entry)  # Plain entry\n            output.append(b'hello ' + entry)  # Start changed\n            output.append(entry + b' world')  # End changed\n            output.append(b'hello ' + entry + b' world')  # Both changed",
+        "detail": "build.lib.chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_rule_numbers",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.tests.test_default_config",
+        "description": "build.lib.chromaterm.tests.test_default_config",
+        "peekOfCode": "def test_rule_numbers(pcre):\n    '''Default rule: Numbers.'''\n    positives = ['1', '123', '123.123']\n    negatives = ['1.1.', '.1.1', '1.2.3']\n    rule = chromaterm.default_config.RULE_NUMBERS\n    rule.pcre = pcre\n    assert_matches(positives, negatives, rule)\ndef test_rule_url(pcre):\n    '''Default rule: URL.'''\n    positives = [",
+        "detail": "build.lib.chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_rule_url",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.tests.test_default_config",
+        "description": "build.lib.chromaterm.tests.test_default_config",
+        "peekOfCode": "def test_rule_url(pcre):\n    '''Default rule: URL.'''\n    positives = [\n        'http://example', 'http://example', 'https://example', 'ftp://example',\n        'ldap://example', 'ssh://example', 'telnet://example',\n        'https://www.example.com', 'http://user@example', 'http://_a.example',\n        'http://user:password@example', 'http://example/hello/',\n        'http://example/hello/world/', 'http://example/?-+=~@%&?#.:;,()\\\\/'\n    ]\n    negatives = [",
+        "detail": "build.lib.chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_rule_ipv4",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.tests.test_default_config",
+        "description": "build.lib.chromaterm.tests.test_default_config",
+        "peekOfCode": "def test_rule_ipv4(pcre):\n    '''Default rule: IPv4 addresses.'''\n    positives = ['192.168.2.1', '255.255.255.255', '=240.3.2.1', '1.2.3.4/32']\n    negatives = ['256.255.255.255', '1.2.3']\n    rule = chromaterm.default_config.RULE_IPV4\n    rule.pcre = pcre\n    assert_matches(positives, negatives, rule)\ndef test_rule_ipv6(pcre):\n    '''Default rule: IPv6 addresses.'''\n    positives = [",
+        "detail": "build.lib.chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_rule_ipv6",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.tests.test_default_config",
+        "description": "build.lib.chromaterm.tests.test_default_config",
+        "peekOfCode": "def test_rule_ipv6(pcre):\n    '''Default rule: IPv6 addresses.'''\n    positives = [\n        'A:b:3:4:5:6:7:8', 'A::', 'A:b:3:4:5:6:7::', 'A::8', '::b:3:4:5:6:7:8',\n        '::8', 'A:b:3:4:5:6::8', 'A:b:3:4:5::7:8', 'A:b:3:4::6:7:8', '::',\n        'A:b:3::5:6:7:8', 'A:b::4:5:6:7:8', 'A::3:4:5:6:7:8', 'A::7:8', 'A::8',\n        'A:b:3:4:5::8', 'A::6:7:8', 'A:b:3:4::8', 'A::5:6:7:8', 'A:b:3::8',\n        'A::4:5:6:7:8', 'A:b::8', 'A:b:3:4:5:6:7:8/64', 'fe80::1%tun', ':::'\n    ]\n    negatives = [",
+        "detail": "build.lib.chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_rule_mac",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.tests.test_default_config",
+        "description": "build.lib.chromaterm.tests.test_default_config",
+        "peekOfCode": "def test_rule_mac(pcre):\n    '''Default rule: MAC addresses.'''\n    positives = ['0A:23:45:67:89:AB', '0a:23:45:67:89:ab', '0a23.4567.89ab']\n    negatives = [\n        '0A:23:45:67:89', '0A:23:45:67:89:AB:', '0A23.4567.89.AB',\n        '0a23.4567.89ab.', '0a:23:45:67:xy:zx', '0a23.4567.xyzx'\n    ]\n    rule = chromaterm.default_config.RULE_MAC\n    rule.pcre = pcre\n    assert_matches(positives, negatives, rule)",
+        "detail": "build.lib.chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_rule_size",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.tests.test_default_config",
+        "description": "build.lib.chromaterm.tests.test_default_config",
+        "peekOfCode": "def test_rule_size(pcre):\n    '''Default rule: Size.'''\n    positives = [\n        '100b', '1kb', '1kib', '1Kb', '1kbps', '1.1kb', '1mb', '1gb', '1tb',\n        '1pb', '1eb', '1zb', '1yb'\n    ]\n    negatives = ['100', '1kg', '1kic', '1kbpm', '1kibb', '1.1.kb', '100wb']\n    rule = chromaterm.default_config.RULE_SIZE\n    rule.pcre = pcre\n    assert_matches(positives, negatives, rule, match_count=2)",
+        "detail": "build.lib.chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_rule_date",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.tests.test_default_config",
+        "description": "build.lib.chromaterm.tests.test_default_config",
+        "peekOfCode": "def test_rule_date(pcre):\n    '''Default rule: Date.'''\n    positives = [\n        '2019-12-31', '2019-12-31', '2019/12/31', '12/31/2019', '31/12/2019',\n        '31/12/19', '31-12-19', 'jan 2019', 'feb 2019', 'Mar 2019', 'apr 2019',\n        'MAY 2019', 'Jun 2019', 'jul  2019', 'AUG 19', 'sep 20', 'oct 21',\n        'dec 23', 'AUG 19 2021', '24 jan', '25 feb 2019'\n    ]\n    negatives = [\n        '201-12-31', '2019-13-31', '2019-12-32', '2019-12/31', '2019/12-31',",
+        "detail": "build.lib.chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_rule_time",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.tests.test_default_config",
+        "description": "build.lib.chromaterm.tests.test_default_config",
+        "peekOfCode": "def test_rule_time(pcre):\n    '''Default rule: Time.'''\n    positives = [\n        '23:59', '23:01', '23:01:01', '23:01:01.123', '23:01:01-0800',\n        '23:01:01+08', '23:01:01Z'\n    ]\n    negatives = ['24:59', '23:60', '23:1', '23:01:1', '23:01:01:', '23:01.123']\n    rule = chromaterm.default_config.RULE_TIME\n    rule.pcre = pcre\n    assert_matches(positives, negatives, rule)",
+        "detail": "build.lib.chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_write_default_config",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.tests.test_default_config",
+        "description": "build.lib.chromaterm.tests.test_default_config",
+        "peekOfCode": "def test_write_default_config():\n    '''Write config file.'''\n    path = __name__ + '1'\n    assert chromaterm.default_config.write_default_config(path)\n    assert os.access(path, os.F_OK)\n    os.remove(path)\ndef test_write_default_config_exists():\n    '''Config file already exists.'''\n    path = __name__ + '2'\n    with open(path, 'w', encoding='utf-8'):",
+        "detail": "build.lib.chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_write_default_config_exists",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.tests.test_default_config",
+        "description": "build.lib.chromaterm.tests.test_default_config",
+        "peekOfCode": "def test_write_default_config_exists():\n    '''Config file already exists.'''\n    path = __name__ + '2'\n    with open(path, 'w', encoding='utf-8'):\n        assert not chromaterm.default_config.write_default_config(path)\n    os.remove(path)\ndef test_write_default_config_no_permission():\n    '''No write permission on directory.'''\n    path = __name__ + '3' + '/hi.yml'\n    os.mkdir(os.path.dirname(path), mode=0o444)",
+        "detail": "build.lib.chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_write_default_config_no_permission",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.tests.test_default_config",
+        "description": "build.lib.chromaterm.tests.test_default_config",
+        "peekOfCode": "def test_write_default_config_no_permission():\n    '''No write permission on directory.'''\n    path = __name__ + '3' + '/hi.yml'\n    os.mkdir(os.path.dirname(path), mode=0o444)\n    assert not chromaterm.default_config.write_default_config(path + '/hi')\n    os.rmdir(os.path.dirname(path))",
+        "detail": "build.lib.chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_finditer",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.tests.test_pcre",
+        "description": "build.lib.chromaterm.tests.test_pcre",
+        "peekOfCode": "def test_finditer():\n    '''Find all matches in data.'''\n    regex = chromaterm.pcre.Pattern(b'hello (world)')\n    match = list(regex.finditer(b'--- hello world ---'))[0]\n    assert match.span(0) == (4, 15)\n    assert match.span(1) == (10, 15)\ndef test_free_memory(monkeypatch):\n    '''Free the PCRE `regex` and `match_data` on cleanup.'''\n    mock = MagicMock()\n    regex = chromaterm.pcre.Pattern(b'hello')",
+        "detail": "build.lib.chromaterm.tests.test_pcre",
+        "documentation": {}
+    },
+    {
+        "label": "test_free_memory",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.tests.test_pcre",
+        "description": "build.lib.chromaterm.tests.test_pcre",
+        "peekOfCode": "def test_free_memory(monkeypatch):\n    '''Free the PCRE `regex` and `match_data` on cleanup.'''\n    mock = MagicMock()\n    regex = chromaterm.pcre.Pattern(b'hello')\n    _match_data = regex._match_data\n    _regex = regex._regex\n    monkeypatch.setattr(chromaterm.pcre.PCRE2, 'pcre2_match_data_free_8', mock)\n    monkeypatch.setattr(chromaterm.pcre.PCRE2, 'pcre2_code_free_8', mock)\n    del regex\n    assert mock.mock_calls[0][1][0] is _match_data",
+        "detail": "build.lib.chromaterm.tests.test_pcre",
+        "documentation": {}
+    },
+    {
+        "label": "test_groupindex",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.tests.test_pcre",
+        "description": "build.lib.chromaterm.tests.test_pcre",
+        "peekOfCode": "def test_groupindex():\n    '''Lookup named groups.'''\n    regex = chromaterm.pcre.Pattern(br'(?P<hi>hello)( )(?<place>world)')\n    assert regex.groupindex['hi'] == 1\n    assert regex.groupindex.get('place') == 3\n    assert regex.groupindex.get('no') is None\ndef test_re_error():\n    '''Invalid regular expression should raise `re.error`.'''\n    with pytest.raises(re.error, match=r'position \\d+: '):\n        chromaterm.pcre.Pattern(b'hello (world')",
+        "detail": "build.lib.chromaterm.tests.test_pcre",
+        "documentation": {}
+    },
+    {
+        "label": "test_re_error",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.tests.test_pcre",
+        "description": "build.lib.chromaterm.tests.test_pcre",
+        "peekOfCode": "def test_re_error():\n    '''Invalid regular expression should raise `re.error`.'''\n    with pytest.raises(re.error, match=r'position \\d+: '):\n        chromaterm.pcre.Pattern(b'hello (world')\ndef test_zero_length_matching():\n    '''Ensure that a zero-length matches don't put PCRE into an infinite loop.'''\n    regex = chromaterm.pcre.Pattern(br'(?<=hello)\\b')\n    assert len(list(regex.finditer(b'hello world'))) == 0",
+        "detail": "build.lib.chromaterm.tests.test_pcre",
+        "documentation": {}
+    },
+    {
+        "label": "test_zero_length_matching",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.tests.test_pcre",
+        "description": "build.lib.chromaterm.tests.test_pcre",
+        "peekOfCode": "def test_zero_length_matching():\n    '''Ensure that a zero-length matches don't put PCRE into an infinite loop.'''\n    regex = chromaterm.pcre.Pattern(br'(?<=hello)\\b')\n    assert len(list(regex.finditer(b'hello world'))) == 0",
+        "detail": "build.lib.chromaterm.tests.test_pcre",
+        "documentation": {}
+    },
+    {
+        "label": "generate_default_rules_yaml",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.default_config",
+        "description": "build.lib.chromaterm.default_config",
+        "peekOfCode": "def generate_default_rules_yaml():\n    '''Returns a YAML string of the default configuration.'''\n    data = yaml.dump({'palette': PALETTE.colors}, sort_keys=False) + '\\n'\n    data += 'rules:\\n'\n    for rule in [\n            RULE_NUMBERS, RULE_URL, RULE_IPV4, RULE_IPV6, RULE_MAC, RULE_DATE,\n            RULE_TIME, RULE_SIZE, RULE_GENERIC_BAD, RULE_GENERIC_AMBIGIOUS_BAD,\n            RULE_GENERIC_NOT_TOO_BAD, RULE_GENERIC_AMBIGIOUS_GOOD,\n            RULE_GENERIC_GOOD\n    ]:",
+        "detail": "build.lib.chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "write_default_config",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.default_config",
+        "description": "build.lib.chromaterm.default_config",
+        "peekOfCode": "def write_default_config(path):\n    '''Writes a default config file if it doesn't exist.\n    Args:\n        path (str): The location to which the default config file is written.\n    Returns:\n        True if the file did not exist and was written. False otherwise.\n    '''\n    # Already exists\n    if os.access(path, os.F_OK):\n        return False",
+        "detail": "build.lib.chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "yaml_str_presenter",
+        "kind": 2,
+        "importPath": "build.lib.chromaterm.default_config",
+        "description": "build.lib.chromaterm.default_config",
+        "peekOfCode": "def yaml_str_presenter(dumper, data):\n    '''YAML string representer that uses the `|` style when data is multiline.'''\n    style = '|' if len(data.splitlines()) > 1 else None\n    return dumper.represent_scalar('tag:yaml.org,2002:str', data, style=style)\nyaml.add_representer(str, yaml_str_presenter)",
+        "detail": "build.lib.chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "PALETTE",
+        "kind": 5,
+        "importPath": "build.lib.chromaterm.default_config",
+        "description": "build.lib.chromaterm.default_config",
+        "peekOfCode": "PALETTE = Palette()\n# https://coolors.co/c68c6c-00e0d1-ef2e9f-5698c8-a35a00-df99f0-03d28d\nPALETTE.add_color('type-1', '#dc8968')\nPALETTE.add_color('type-2', '#00e0d1')\nPALETTE.add_color('type-3', '#ef2e9f')\nPALETTE.add_color('type-4', '#5698c8')\nPALETTE.add_color('type-5', '#a35a00')\nPALETTE.add_color('type-6', '#df99f0')\nPALETTE.add_color('type-7', '#03d28d')\n# https://coolors.co/c71800-c96901-ca9102-cab902-a2bc02-79bf02-28c501",
+        "detail": "build.lib.chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_NUMBERS",
+        "kind": 5,
+        "importPath": "build.lib.chromaterm.default_config",
+        "description": "build.lib.chromaterm.default_config",
+        "peekOfCode": "RULE_NUMBERS = Rule(\n    r'\\b(?<!\\.)\\d+(\\.\\d+)?(?!\\.)\\b',\n    Color('f.type-1', palette=PALETTE),\n    'Numbers',\n)\nRULE_URL = Rule(\n    r'''(?ix)\\b\n    ((htt|ft|lda)ps?|telnet|ssh)://  # Scheme\n    ([-%:\\w\\\\/]{1,256}@)?  # User info\n    [-\\w]{1,63}(\\.[-\\w]{1,63}){0,126}(:\\d{1,5})?  # Host and port",
+        "detail": "build.lib.chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_URL",
+        "kind": 5,
+        "importPath": "build.lib.chromaterm.default_config",
+        "description": "build.lib.chromaterm.default_config",
+        "peekOfCode": "RULE_URL = Rule(\n    r'''(?ix)\\b\n    ((htt|ft|lda)ps?|telnet|ssh)://  # Scheme\n    ([-%:\\w\\\\/]{1,256}@)?  # User info\n    [-\\w]{1,63}(\\.[-\\w]{1,63}){0,126}(:\\d{1,5})?  # Host and port\n    (/[-+=~@%&?#.:;,\\w\\\\/()]*)?  # Path, query, and fragment\n((?=[.:;,)])|\\b)  # Avoid highlighting trailing path characters by matching them in a lookahead\n''',\n    Color('f.type-4', palette=PALETTE),\n    'URL',",
+        "detail": "build.lib.chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_IPV4",
+        "kind": 5,
+        "importPath": "build.lib.chromaterm.default_config",
+        "description": "build.lib.chromaterm.default_config",
+        "peekOfCode": "RULE_IPV4 = Rule(\n    r'\\b(?<!\\.)((25[0-5]|(2[0-4]|[0-1]?\\d)?\\d)\\.){3}(25[0-5]|(2[0-4]|[0-1]?\\d)?\\d)(/\\d+)?\\b',\n    Color('f.type-2', palette=PALETTE),\n    'IPv4',\n    exclusive=True,\n)\nRULE_IPV6 = Rule(\n    r'''(?ix)(?<![\\w:])(\n    ([\\da-f]{1,4}:){7}[\\da-f]{1,4}|  # 1:2:3:4:5:6:7:8\n    [\\da-f]{1,4}:(:[\\da-f]{1,4}){1,6}|  # 1::3:4:5:6:7:8",
+        "detail": "build.lib.chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_IPV6",
+        "kind": 5,
+        "importPath": "build.lib.chromaterm.default_config",
+        "description": "build.lib.chromaterm.default_config",
+        "peekOfCode": "RULE_IPV6 = Rule(\n    r'''(?ix)(?<![\\w:])(\n    ([\\da-f]{1,4}:){7}[\\da-f]{1,4}|  # 1:2:3:4:5:6:7:8\n    [\\da-f]{1,4}:(:[\\da-f]{1,4}){1,6}|  # 1::3:4:5:6:7:8\n    ([\\da-f]{1,4}:){1,2}(:[\\da-f]{1,4}){1,5}|  # 1:2::4:5:6:7:8\n    ([\\da-f]{1,4}:){1,3}(:[\\da-f]{1,4}){1,4}|  # 1:2:3::5:6:7:8\n    ([\\da-f]{1,4}:){1,4}(:[\\da-f]{1,4}){1,3}|  # 1:2:3:4::6:7:8\n    ([\\da-f]{1,4}:){1,5}(:[\\da-f]{1,4}){1,2}|  # 1:2:3:4:5::7:8\n    ([\\da-f]{1,4}:){1,6}:[\\da-f]{1,4}|  # 1:2:3:4:5:6::8\n    ([\\da-f]{1,4}:){1,7}:|  # 1:2:3:4:5:6:7::",
+        "detail": "build.lib.chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_MAC",
+        "kind": 5,
+        "importPath": "build.lib.chromaterm.default_config",
+        "description": "build.lib.chromaterm.default_config",
+        "peekOfCode": "RULE_MAC = Rule(\n    r'''(?ix)\\b(\n    (?<!:)([\\da-f]{1,2}:){5}[\\da-f]{1,2}(?!:)|  # 11:22:33:aa:bb:cc\n    (?<!\\.)([\\da-f]{4}\\.){2}[\\da-f]{4}(?!\\.)  # 1122.33aa.bbcc\n)\\b\n''',\n    Color('f.type-4', palette=PALETTE),\n    'MAC address',\n    exclusive=True,\n)",
+        "detail": "build.lib.chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_DATE",
+        "kind": 5,
+        "importPath": "build.lib.chromaterm.default_config",
+        "description": "build.lib.chromaterm.default_config",
+        "peekOfCode": "RULE_DATE = Rule(\n    r'''(?ix)\\b(\n    (\\d{2}|\\d{4})(?P<sep1>[-/])(0?[1-9]|1[0-2])(?P=sep1)(3[0-1]|[1-2]\\d|0?[1-9])|  # YYYY-MM-DD, YY-MM-DD, YYYY/MM/DD, YY/MM/DD\n    (3[0-1]|[1-2]\\d|0?[1-9])(?P<sep2>[-/])(0?[1-9]|1[0-2])(?P=sep2)(\\d{2}|\\d{4})|  # DD-MM-YYYY, DD-MM-YY, DD/MM/YYYY, DD/MM/YY\n    (0?[1-9]|1[0-2])(?P<sep3>[-/])(3[0-1]|[1-2]\\d|0?[1-9])(?P=sep3)(\\d{2}|\\d{4})|  # MM-DD-YYYY, MM-DD-YY, MM/DD/YYYY, MM/DD/YY\n    (jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\\s+(  # MMM\n        (3[0-1]|[1-2]\\d|0?[1-9])(\\s+\\d{4})?|\\d{4}  # DD (YYYY)?, YYYY\n    )|(3[0-1]|[1-2]\\d|0?[1-9])\\s(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)(?!\\s+(3[0-1]|[1-2]\\d|0?[1-9])([^\\w:]|$))(\\s+\\d{4})?  # DD MMM (YYYY)?\n)((?=[\\WT_])|$)\n''',",
+        "detail": "build.lib.chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_TIME",
+        "kind": 5,
+        "importPath": "build.lib.chromaterm.default_config",
+        "description": "build.lib.chromaterm.default_config",
+        "peekOfCode": "RULE_TIME = Rule(\n    r'''(?ix)(?<![\\.:])(\\b|(?<=T))\n    (2[0-3]|[0-1]\\d):[0-5]\\d  # Hours and minutes\n    (:[0-5]\\d([\\.,]\\d{3,6})?)?  # (Seconds (sub-seconds, 3 to 6 decimal places)?)?\n    ([\\-\\+](\\d{2}|\\d{4})|Z)?  # (Timezone)?\n(?![\\.:])\\b\n''',\n    Color('b.type-5', palette=PALETTE),\n    'Time',\n    exclusive=True,",
+        "detail": "build.lib.chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_SIZE",
+        "kind": 5,
+        "importPath": "build.lib.chromaterm.default_config",
+        "description": "build.lib.chromaterm.default_config",
+        "peekOfCode": "RULE_SIZE = Rule(\n    r'(?i)\\b\\d+(\\.\\d+)?\\s?((([KMGTPEZY](i?B)?)|B)(ps)?)\\b',\n    {\n        0: Color('f.type-6', palette=PALETTE),\n        2: Color('bold'),\n    },\n    'Size, like 123G 123Gb 123Gib 1.23G 123Gbps',\n    exclusive=True,\n)\nRULE_GENERIC_BAD = Rule(",
+        "detail": "build.lib.chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_GENERIC_BAD",
+        "kind": 5,
+        "importPath": "build.lib.chromaterm.default_config",
+        "description": "build.lib.chromaterm.default_config",
+        "peekOfCode": "RULE_GENERIC_BAD = Rule(\n    r'(?i)\\b(password|abnormal(ly)?|down|los(t|ing)|err(ors?)?|(den(y|ies|ied)?)|reject(ing|ed)?|drop(ped|s)?|(err\\-)?disabled?|(timed?\\-?out)|fail(s|ed|iure)?|disconnect(ed)?|unreachable|invalid|bad|notconnect|unusable|blk|inaccessible|wrong|collisions?|unsynchronized|mismatch|runts)\\b',\n    Color('f.status-1', palette=PALETTE),\n    'Generic - Bad',\n)\nRULE_GENERIC_AMBIGIOUS_BAD = Rule(\n    r'(?i)\\b(no(pe)?|exit(ed)?|reset(t?ing)?|discard(ed|ing)?|block(ed|ing)?|filter(ed|ing)?|stop(p(ed|ing))?|never|bad)\\b',\n    Color('f.status-3', palette=PALETTE),\n    'Generic - Ambigious bad',\n)",
+        "detail": "build.lib.chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_GENERIC_AMBIGIOUS_BAD",
+        "kind": 5,
+        "importPath": "build.lib.chromaterm.default_config",
+        "description": "build.lib.chromaterm.default_config",
+        "peekOfCode": "RULE_GENERIC_AMBIGIOUS_BAD = Rule(\n    r'(?i)\\b(no(pe)?|exit(ed)?|reset(t?ing)?|discard(ed|ing)?|block(ed|ing)?|filter(ed|ing)?|stop(p(ed|ing))?|never|bad)\\b',\n    Color('f.status-3', palette=PALETTE),\n    'Generic - Ambigious bad',\n)\nRULE_GENERIC_NOT_TOO_BAD = Rule(\n    r'(?i)\\b(warnings?)\\b',\n    Color('f.status-4', palette=PALETTE),\n    'Generic - Not too bad',\n)",
+        "detail": "build.lib.chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_GENERIC_NOT_TOO_BAD",
+        "kind": 5,
+        "importPath": "build.lib.chromaterm.default_config",
+        "description": "build.lib.chromaterm.default_config",
+        "peekOfCode": "RULE_GENERIC_NOT_TOO_BAD = Rule(\n    r'(?i)\\b(warnings?)\\b',\n    Color('f.status-4', palette=PALETTE),\n    'Generic - Not too bad',\n)\nRULE_GENERIC_AMBIGIOUS_GOOD = Rule(\n    r'(?i)\\b(ye(s|ah?|p)?|start(ed|ing)?|running|good)\\b',\n    Color('f.status-6', palette=PALETTE),\n    'Generic - Ambigious good',\n)",
+        "detail": "build.lib.chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_GENERIC_AMBIGIOUS_GOOD",
+        "kind": 5,
+        "importPath": "build.lib.chromaterm.default_config",
+        "description": "build.lib.chromaterm.default_config",
+        "peekOfCode": "RULE_GENERIC_AMBIGIOUS_GOOD = Rule(\n    r'(?i)\\b(ye(s|ah?|p)?|start(ed|ing)?|running|good)\\b',\n    Color('f.status-6', palette=PALETTE),\n    'Generic - Ambigious good',\n)\nRULE_GENERIC_GOOD = Rule(\n    r'(?i)\\b(up|ok(ay)?|permit(ed|s)?|accept(s|ed)?|enabled?|online|succe((ss(ful|fully)?)|ed(ed)?)?|connect(ed)?|reachable|valid|forwarding|synchronized)\\b',\n    Color('f.status-7', palette=PALETTE),\n    'Generic - Good',\n)",
+        "detail": "build.lib.chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_GENERIC_GOOD",
+        "kind": 5,
+        "importPath": "build.lib.chromaterm.default_config",
+        "description": "build.lib.chromaterm.default_config",
+        "peekOfCode": "RULE_GENERIC_GOOD = Rule(\n    r'(?i)\\b(up|ok(ay)?|permit(ed|s)?|accept(s|ed)?|enabled?|online|succe((ss(ful|fully)?)|ed(ed)?)?|connect(ed)?|reachable|valid|forwarding|synchronized)\\b',\n    Color('f.status-7', palette=PALETTE),\n    'Generic - Good',\n)\ndef generate_default_rules_yaml():\n    '''Returns a YAML string of the default configuration.'''\n    data = yaml.dump({'palette': PALETTE.colors}, sort_keys=False) + '\\n'\n    data += 'rules:\\n'\n    for rule in [",
+        "detail": "build.lib.chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "GroupIndex",
+        "kind": 6,
+        "importPath": "build.lib.chromaterm.pcre",
+        "description": "build.lib.chromaterm.pcre",
+        "peekOfCode": "class GroupIndex(collections.UserDict):\n    '''Extracting the named groups table is too much work. This class patches\n    `__getitem__` to extract a named group on-demand (much easier to do).'''\n    def __init__(self, regex):\n        super().__init__()\n        self._regex = regex\n    def __getitem__(self, name):\n        group_id = PCRE2.pcre2_substring_number_from_name_8(\n            self._regex,\n            name.encode(),",
+        "detail": "build.lib.chromaterm.pcre",
+        "documentation": {}
+    },
+    {
+        "label": "Pattern",
+        "kind": 6,
+        "importPath": "build.lib.chromaterm.pcre",
+        "description": "build.lib.chromaterm.pcre",
+        "peekOfCode": "class Pattern:\n    '''PCRE2 Pattern. Like that of Python's, if it was stripped of everything.'''\n    def __init__(self, pattern):\n        '''Constructor.\n        Args:\n            pattern (bytes): The regex pattern.\n        '''\n        error_buffer = create_string_buffer(4096)\n        error_code = c_uint32()\n        error_offset = c_size_t()",
+        "detail": "build.lib.chromaterm.pcre",
+        "documentation": {}
+    },
+    {
+        "label": "PCRE2",
+        "kind": 5,
+        "importPath": "build.lib.chromaterm.pcre",
+        "description": "build.lib.chromaterm.pcre",
+        "peekOfCode": "PCRE2 = CDLL(find_library('pcre2-8'))\nPCRE2.pcre2_compile_8.restype = POINTER(c_char)\nPCRE2.pcre2_match_data_create_8.restype = POINTER(c_char)\n# PCRE2_NOTEMPTY_ATSTART = 4\nMATCH_OPTIONS = c_uint32(4)\nclass GroupIndex(collections.UserDict):\n    '''Extracting the named groups table is too much work. This class patches\n    `__getitem__` to extract a named group on-demand (much easier to do).'''\n    def __init__(self, regex):\n        super().__init__()",
+        "detail": "build.lib.chromaterm.pcre",
+        "documentation": {}
+    },
+    {
+        "label": "PCRE2.pcre2_compile_8.restype",
+        "kind": 5,
+        "importPath": "build.lib.chromaterm.pcre",
+        "description": "build.lib.chromaterm.pcre",
+        "peekOfCode": "PCRE2.pcre2_compile_8.restype = POINTER(c_char)\nPCRE2.pcre2_match_data_create_8.restype = POINTER(c_char)\n# PCRE2_NOTEMPTY_ATSTART = 4\nMATCH_OPTIONS = c_uint32(4)\nclass GroupIndex(collections.UserDict):\n    '''Extracting the named groups table is too much work. This class patches\n    `__getitem__` to extract a named group on-demand (much easier to do).'''\n    def __init__(self, regex):\n        super().__init__()\n        self._regex = regex",
+        "detail": "build.lib.chromaterm.pcre",
+        "documentation": {}
+    },
+    {
+        "label": "PCRE2.pcre2_match_data_create_8.restype",
+        "kind": 5,
+        "importPath": "build.lib.chromaterm.pcre",
+        "description": "build.lib.chromaterm.pcre",
+        "peekOfCode": "PCRE2.pcre2_match_data_create_8.restype = POINTER(c_char)\n# PCRE2_NOTEMPTY_ATSTART = 4\nMATCH_OPTIONS = c_uint32(4)\nclass GroupIndex(collections.UserDict):\n    '''Extracting the named groups table is too much work. This class patches\n    `__getitem__` to extract a named group on-demand (much easier to do).'''\n    def __init__(self, regex):\n        super().__init__()\n        self._regex = regex\n    def __getitem__(self, name):",
+        "detail": "build.lib.chromaterm.pcre",
+        "documentation": {}
+    },
+    {
+        "label": "MATCH_OPTIONS",
+        "kind": 5,
+        "importPath": "build.lib.chromaterm.pcre",
+        "description": "build.lib.chromaterm.pcre",
+        "peekOfCode": "MATCH_OPTIONS = c_uint32(4)\nclass GroupIndex(collections.UserDict):\n    '''Extracting the named groups table is too much work. This class patches\n    `__getitem__` to extract a named group on-demand (much easier to do).'''\n    def __init__(self, regex):\n        super().__init__()\n        self._regex = regex\n    def __getitem__(self, name):\n        group_id = PCRE2.pcre2_substring_number_from_name_8(\n            self._regex,",
+        "detail": "build.lib.chromaterm.pcre",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_stdin",
+        "kind": 2,
+        "importPath": "chromaterm.platform.tests.test_unix",
+        "description": "chromaterm.platform.tests.test_unix",
+        "peekOfCode": "def test_get_stdin(monkeypatch):\n    '''Ensure stdin is a file descriptor.'''\n    monkeypatch.setattr(sys.stdin, 'fileno', lambda: 0)\n    assert isinstance(chromaterm.platform.unix.get_stdin(), int)",
+        "detail": "chromaterm.platform.tests.test_unix",
+        "documentation": {}
+    },
+    {
+        "label": "create_cwd_watcher",
+        "kind": 2,
+        "importPath": "chromaterm.platform.unix",
+        "description": "chromaterm.platform.unix",
+        "peekOfCode": "def create_cwd_watcher(pid):\n    '''\n    Creates a daemon thread that checks the `cwd` of a process, then updates the\n    `cwd` of the current process.\n    Args:\n        pid (int): PID of the process whose `cwd` is checked.\n    '''\n    def update_cwd():  # pragma: no cover\n        # Covered by `test_main_cwd_tracking` but not detected by coverage\n        # pylint: disable=import-outside-toplevel",
+        "detail": "chromaterm.platform.unix",
+        "documentation": {}
+    },
+    {
+        "label": "get_stdin",
+        "kind": 2,
+        "importPath": "chromaterm.platform.unix",
+        "description": "chromaterm.platform.unix",
+        "peekOfCode": "def get_stdin():\n    '''Returns the file descriptor for stdin.'''\n    return sys.stdin.fileno()\ndef run_program(program_args):\n    '''Returns a file descriptor of the bidirectional pipe to the spawned program.\n    Args:\n        program_args (list): A list of program arguments. The first argument is\n            the program name/location.\n    '''\n    try:",
+        "detail": "chromaterm.platform.unix",
+        "documentation": {}
+    },
+    {
+        "label": "run_program",
+        "kind": 2,
+        "importPath": "chromaterm.platform.unix",
+        "description": "chromaterm.platform.unix",
+        "peekOfCode": "def run_program(program_args):\n    '''Returns a file descriptor of the bidirectional pipe to the spawned program.\n    Args:\n        program_args (list): A list of program arguments. The first argument is\n            the program name/location.\n    '''\n    try:\n        # Set to raw as the pty will be handling any processing; restore at exit\n        attributes = termios.tcgetattr(sys.stdin.fileno())\n        atexit.register(termios.tcsetattr, sys.stdin.fileno(), termios.TCSANOW,",
+        "detail": "chromaterm.platform.unix",
+        "documentation": {}
+    },
+    {
+        "label": "CWD_UPDATE_INTERVAL",
+        "kind": 5,
+        "importPath": "chromaterm.platform.unix",
+        "description": "chromaterm.platform.unix",
+        "peekOfCode": "CWD_UPDATE_INTERVAL = 1 / 4\ndef create_cwd_watcher(pid):\n    '''\n    Creates a daemon thread that checks the `cwd` of a process, then updates the\n    `cwd` of the current process.\n    Args:\n        pid (int): PID of the process whose `cwd` is checked.\n    '''\n    def update_cwd():  # pragma: no cover\n        # Covered by `test_main_cwd_tracking` but not detected by coverage",
+        "detail": "chromaterm.platform.unix",
+        "documentation": {}
+    },
+    {
+        "label": "create_cwd_watcher",
+        "kind": 2,
+        "importPath": "chromaterm.platform.windows",
+        "description": "chromaterm.platform.windows",
+        "peekOfCode": "def create_cwd_watcher(pid):\n    '''\n    Creates a daemon thread that checks the `cwd` of a process, then updates the\n    `cwd` of the current process.\n    Args:\n        pid (int): PID of the process whose `cwd` is checked.\n    '''\n    def update_cwd():\n        try:\n            child_process = psutil.Process(pid)",
+        "detail": "chromaterm.platform.windows",
+        "documentation": {}
+    },
+    {
+        "label": "get_stdin",
+        "kind": 2,
+        "importPath": "chromaterm.platform.windows",
+        "description": "chromaterm.platform.windows",
+        "peekOfCode": "def get_stdin():\n    '''Returns stdin for compatibility.'''\n    return sys.stdin\ndef run_program(program_args):\n    '''\n    Runs a program on Windows, setting up pipes for input/output.\n    Args:\n        program_args (list): A list of program arguments.\n    '''\n    # Use Popen for creating a bidirectional pipe",
+        "detail": "chromaterm.platform.windows",
+        "documentation": {}
+    },
+    {
+        "label": "run_program",
+        "kind": 2,
+        "importPath": "chromaterm.platform.windows",
+        "description": "chromaterm.platform.windows",
+        "peekOfCode": "def run_program(program_args):\n    '''\n    Runs a program on Windows, setting up pipes for input/output.\n    Args:\n        program_args (list): A list of program arguments.\n    '''\n    # Use Popen for creating a bidirectional pipe\n    process = subprocess.Popen(\n        program_args,\n        stdin=subprocess.PIPE,",
+        "detail": "chromaterm.platform.windows",
+        "documentation": {}
+    },
+    {
+        "label": "CWD_UPDATE_INTERVAL",
+        "kind": 5,
+        "importPath": "chromaterm.platform.windows",
+        "description": "chromaterm.platform.windows",
+        "peekOfCode": "CWD_UPDATE_INTERVAL = 1 / 4\ndef create_cwd_watcher(pid):\n    '''\n    Creates a daemon thread that checks the `cwd` of a process, then updates the\n    `cwd` of the current process.\n    Args:\n        pid (int): PID of the process whose `cwd` is checked.\n    '''\n    def update_cwd():\n        try:",
+        "detail": "chromaterm.platform.windows",
+        "documentation": {}
+    },
+    {
+        "label": "pytest_generate_tests",
+        "kind": 2,
+        "importPath": "chromaterm.tests.conftest",
+        "description": "chromaterm.tests.conftest",
+        "peekOfCode": "def pytest_generate_tests(metafunc):\n    '''Run tests with the `pcre` fixture twice; Once with `pcre=False`, another\n    time with `pcre=True` if the library is present.'''\n    if find_library('pcre2-8') and 'pcre' in metafunc.fixturenames:\n        metafunc.parametrize('pcre', [False, True])",
+        "detail": "chromaterm.tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "assert_matches",
+        "kind": 2,
+        "importPath": "chromaterm.tests.test_default_config",
+        "description": "chromaterm.tests.test_default_config",
+        "peekOfCode": "def assert_matches(positives, negatives, rule, match_count=1):\n    '''Assert that all positives are matched while negatives are not.'''\n    def permutate_data(data):\n        output = []\n        for entry in data if isinstance(data, list) else [data]:\n            entry = entry.encode()\n            output.append(entry)  # Plain entry\n            output.append(b'hello ' + entry)  # Start changed\n            output.append(entry + b' world')  # End changed\n            output.append(b'hello ' + entry + b' world')  # Both changed",
+        "detail": "chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_rule_numbers",
+        "kind": 2,
+        "importPath": "chromaterm.tests.test_default_config",
+        "description": "chromaterm.tests.test_default_config",
+        "peekOfCode": "def test_rule_numbers(pcre):\n    '''Default rule: Numbers.'''\n    positives = ['1', '123', '123.123']\n    negatives = ['1.1.', '.1.1', '1.2.3']\n    rule = chromaterm.default_config.RULE_NUMBERS\n    rule.pcre = pcre\n    assert_matches(positives, negatives, rule)\ndef test_rule_url(pcre):\n    '''Default rule: URL.'''\n    positives = [",
+        "detail": "chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_rule_url",
+        "kind": 2,
+        "importPath": "chromaterm.tests.test_default_config",
+        "description": "chromaterm.tests.test_default_config",
+        "peekOfCode": "def test_rule_url(pcre):\n    '''Default rule: URL.'''\n    positives = [\n        'http://example', 'http://example', 'https://example', 'ftp://example',\n        'ldap://example', 'ssh://example', 'telnet://example',\n        'https://www.example.com', 'http://user@example', 'http://_a.example',\n        'http://user:password@example', 'http://example/hello/',\n        'http://example/hello/world/', 'http://example/?-+=~@%&?#.:;,()\\\\/'\n    ]\n    negatives = [",
+        "detail": "chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_rule_ipv4",
+        "kind": 2,
+        "importPath": "chromaterm.tests.test_default_config",
+        "description": "chromaterm.tests.test_default_config",
+        "peekOfCode": "def test_rule_ipv4(pcre):\n    '''Default rule: IPv4 addresses.'''\n    positives = ['192.168.2.1', '255.255.255.255', '=240.3.2.1', '1.2.3.4/32']\n    negatives = ['256.255.255.255', '1.2.3']\n    rule = chromaterm.default_config.RULE_IPV4\n    rule.pcre = pcre\n    assert_matches(positives, negatives, rule)\ndef test_rule_ipv6(pcre):\n    '''Default rule: IPv6 addresses.'''\n    positives = [",
+        "detail": "chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_rule_ipv6",
+        "kind": 2,
+        "importPath": "chromaterm.tests.test_default_config",
+        "description": "chromaterm.tests.test_default_config",
+        "peekOfCode": "def test_rule_ipv6(pcre):\n    '''Default rule: IPv6 addresses.'''\n    positives = [\n        'A:b:3:4:5:6:7:8', 'A::', 'A:b:3:4:5:6:7::', 'A::8', '::b:3:4:5:6:7:8',\n        '::8', 'A:b:3:4:5:6::8', 'A:b:3:4:5::7:8', 'A:b:3:4::6:7:8', '::',\n        'A:b:3::5:6:7:8', 'A:b::4:5:6:7:8', 'A::3:4:5:6:7:8', 'A::7:8', 'A::8',\n        'A:b:3:4:5::8', 'A::6:7:8', 'A:b:3:4::8', 'A::5:6:7:8', 'A:b:3::8',\n        'A::4:5:6:7:8', 'A:b::8', 'A:b:3:4:5:6:7:8/64', 'fe80::1%tun', ':::'\n    ]\n    negatives = [",
+        "detail": "chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_rule_mac",
+        "kind": 2,
+        "importPath": "chromaterm.tests.test_default_config",
+        "description": "chromaterm.tests.test_default_config",
+        "peekOfCode": "def test_rule_mac(pcre):\n    '''Default rule: MAC addresses.'''\n    positives = ['0A:23:45:67:89:AB', '0a:23:45:67:89:ab', '0a23.4567.89ab']\n    negatives = [\n        '0A:23:45:67:89', '0A:23:45:67:89:AB:', '0A23.4567.89.AB',\n        '0a23.4567.89ab.', '0a:23:45:67:xy:zx', '0a23.4567.xyzx'\n    ]\n    rule = chromaterm.default_config.RULE_MAC\n    rule.pcre = pcre\n    assert_matches(positives, negatives, rule)",
+        "detail": "chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_rule_size",
+        "kind": 2,
+        "importPath": "chromaterm.tests.test_default_config",
+        "description": "chromaterm.tests.test_default_config",
+        "peekOfCode": "def test_rule_size(pcre):\n    '''Default rule: Size.'''\n    positives = [\n        '100b', '1kb', '1kib', '1Kb', '1kbps', '1.1kb', '1mb', '1gb', '1tb',\n        '1pb', '1eb', '1zb', '1yb'\n    ]\n    negatives = ['100', '1kg', '1kic', '1kbpm', '1kibb', '1.1.kb', '100wb']\n    rule = chromaterm.default_config.RULE_SIZE\n    rule.pcre = pcre\n    assert_matches(positives, negatives, rule, match_count=2)",
+        "detail": "chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_rule_date",
+        "kind": 2,
+        "importPath": "chromaterm.tests.test_default_config",
+        "description": "chromaterm.tests.test_default_config",
+        "peekOfCode": "def test_rule_date(pcre):\n    '''Default rule: Date.'''\n    positives = [\n        '2019-12-31', '2019-12-31', '2019/12/31', '12/31/2019', '31/12/2019',\n        '31/12/19', '31-12-19', 'jan 2019', 'feb 2019', 'Mar 2019', 'apr 2019',\n        'MAY 2019', 'Jun 2019', 'jul  2019', 'AUG 19', 'sep 20', 'oct 21',\n        'dec 23', 'AUG 19 2021', '24 jan', '25 feb 2019'\n    ]\n    negatives = [\n        '201-12-31', '2019-13-31', '2019-12-32', '2019-12/31', '2019/12-31',",
+        "detail": "chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_rule_time",
+        "kind": 2,
+        "importPath": "chromaterm.tests.test_default_config",
+        "description": "chromaterm.tests.test_default_config",
+        "peekOfCode": "def test_rule_time(pcre):\n    '''Default rule: Time.'''\n    positives = [\n        '23:59', '23:01', '23:01:01', '23:01:01.123', '23:01:01-0800',\n        '23:01:01+08', '23:01:01Z'\n    ]\n    negatives = ['24:59', '23:60', '23:1', '23:01:1', '23:01:01:', '23:01.123']\n    rule = chromaterm.default_config.RULE_TIME\n    rule.pcre = pcre\n    assert_matches(positives, negatives, rule)",
+        "detail": "chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_write_default_config",
+        "kind": 2,
+        "importPath": "chromaterm.tests.test_default_config",
+        "description": "chromaterm.tests.test_default_config",
+        "peekOfCode": "def test_write_default_config():\n    '''Write config file.'''\n    path = __name__ + '1'\n    assert chromaterm.default_config.write_default_config(path)\n    assert os.access(path, os.F_OK)\n    os.remove(path)\ndef test_write_default_config_exists():\n    '''Config file already exists.'''\n    path = __name__ + '2'\n    with open(path, 'w', encoding='utf-8'):",
+        "detail": "chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_write_default_config_exists",
+        "kind": 2,
+        "importPath": "chromaterm.tests.test_default_config",
+        "description": "chromaterm.tests.test_default_config",
+        "peekOfCode": "def test_write_default_config_exists():\n    '''Config file already exists.'''\n    path = __name__ + '2'\n    with open(path, 'w', encoding='utf-8'):\n        assert not chromaterm.default_config.write_default_config(path)\n    os.remove(path)\ndef test_write_default_config_no_permission():\n    '''No write permission on directory.'''\n    path = __name__ + '3' + '/hi.yml'\n    os.mkdir(os.path.dirname(path), mode=0o444)",
+        "detail": "chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_write_default_config_no_permission",
+        "kind": 2,
+        "importPath": "chromaterm.tests.test_default_config",
+        "description": "chromaterm.tests.test_default_config",
+        "peekOfCode": "def test_write_default_config_no_permission():\n    '''No write permission on directory.'''\n    path = __name__ + '3' + '/hi.yml'\n    os.mkdir(os.path.dirname(path), mode=0o444)\n    assert not chromaterm.default_config.write_default_config(path + '/hi')\n    os.rmdir(os.path.dirname(path))",
+        "detail": "chromaterm.tests.test_default_config",
+        "documentation": {}
+    },
+    {
+        "label": "test_finditer",
+        "kind": 2,
+        "importPath": "chromaterm.tests.test_pcre",
+        "description": "chromaterm.tests.test_pcre",
+        "peekOfCode": "def test_finditer():\n    '''Find all matches in data.'''\n    regex = chromaterm.pcre.Pattern(b'hello (world)')\n    match = list(regex.finditer(b'--- hello world ---'))[0]\n    assert match.span(0) == (4, 15)\n    assert match.span(1) == (10, 15)\ndef test_free_memory(monkeypatch):\n    '''Free the PCRE `regex` and `match_data` on cleanup.'''\n    mock = MagicMock()\n    regex = chromaterm.pcre.Pattern(b'hello')",
+        "detail": "chromaterm.tests.test_pcre",
+        "documentation": {}
+    },
+    {
+        "label": "test_free_memory",
+        "kind": 2,
+        "importPath": "chromaterm.tests.test_pcre",
+        "description": "chromaterm.tests.test_pcre",
+        "peekOfCode": "def test_free_memory(monkeypatch):\n    '''Free the PCRE `regex` and `match_data` on cleanup.'''\n    mock = MagicMock()\n    regex = chromaterm.pcre.Pattern(b'hello')\n    _match_data = regex._match_data\n    _regex = regex._regex\n    monkeypatch.setattr(chromaterm.pcre.PCRE2, 'pcre2_match_data_free_8', mock)\n    monkeypatch.setattr(chromaterm.pcre.PCRE2, 'pcre2_code_free_8', mock)\n    del regex\n    assert mock.mock_calls[0][1][0] is _match_data",
+        "detail": "chromaterm.tests.test_pcre",
+        "documentation": {}
+    },
+    {
+        "label": "test_groupindex",
+        "kind": 2,
+        "importPath": "chromaterm.tests.test_pcre",
+        "description": "chromaterm.tests.test_pcre",
+        "peekOfCode": "def test_groupindex():\n    '''Lookup named groups.'''\n    regex = chromaterm.pcre.Pattern(br'(?P<hi>hello)( )(?<place>world)')\n    assert regex.groupindex['hi'] == 1\n    assert regex.groupindex.get('place') == 3\n    assert regex.groupindex.get('no') is None\ndef test_re_error():\n    '''Invalid regular expression should raise `re.error`.'''\n    with pytest.raises(re.error, match=r'position \\d+: '):\n        chromaterm.pcre.Pattern(b'hello (world')",
+        "detail": "chromaterm.tests.test_pcre",
+        "documentation": {}
+    },
+    {
+        "label": "test_re_error",
+        "kind": 2,
+        "importPath": "chromaterm.tests.test_pcre",
+        "description": "chromaterm.tests.test_pcre",
+        "peekOfCode": "def test_re_error():\n    '''Invalid regular expression should raise `re.error`.'''\n    with pytest.raises(re.error, match=r'position \\d+: '):\n        chromaterm.pcre.Pattern(b'hello (world')\ndef test_zero_length_matching():\n    '''Ensure that a zero-length matches don't put PCRE into an infinite loop.'''\n    regex = chromaterm.pcre.Pattern(br'(?<=hello)\\b')\n    assert len(list(regex.finditer(b'hello world'))) == 0",
+        "detail": "chromaterm.tests.test_pcre",
+        "documentation": {}
+    },
+    {
+        "label": "test_zero_length_matching",
+        "kind": 2,
+        "importPath": "chromaterm.tests.test_pcre",
+        "description": "chromaterm.tests.test_pcre",
+        "peekOfCode": "def test_zero_length_matching():\n    '''Ensure that a zero-length matches don't put PCRE into an infinite loop.'''\n    regex = chromaterm.pcre.Pattern(br'(?<=hello)\\b')\n    assert len(list(regex.finditer(b'hello world'))) == 0",
+        "detail": "chromaterm.tests.test_pcre",
+        "documentation": {}
+    },
+    {
+        "label": "generate_default_rules_yaml",
+        "kind": 2,
+        "importPath": "chromaterm.default_config",
+        "description": "chromaterm.default_config",
+        "peekOfCode": "def generate_default_rules_yaml():\n    '''Returns a YAML string of the default configuration.'''\n    data = yaml.dump({'palette': PALETTE.colors}, sort_keys=False) + '\\n'\n    data += 'rules:\\n'\n    for rule in [\n            RULE_NUMBERS, RULE_URL, RULE_IPV4, RULE_IPV6, RULE_MAC, RULE_DATE,\n            RULE_TIME, RULE_SIZE, RULE_GENERIC_BAD, RULE_GENERIC_AMBIGIOUS_BAD,\n            RULE_GENERIC_NOT_TOO_BAD, RULE_GENERIC_AMBIGIOUS_GOOD,\n            RULE_GENERIC_GOOD\n    ]:",
+        "detail": "chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "write_default_config",
+        "kind": 2,
+        "importPath": "chromaterm.default_config",
+        "description": "chromaterm.default_config",
+        "peekOfCode": "def write_default_config(path):\n    '''Writes a default config file if it doesn't exist.\n    Args:\n        path (str): The location to which the default config file is written.\n    Returns:\n        True if the file did not exist and was written. False otherwise.\n    '''\n    # Already exists\n    if os.access(path, os.F_OK):\n        return False",
+        "detail": "chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "yaml_str_presenter",
+        "kind": 2,
+        "importPath": "chromaterm.default_config",
+        "description": "chromaterm.default_config",
+        "peekOfCode": "def yaml_str_presenter(dumper, data):\n    '''YAML string representer that uses the `|` style when data is multiline.'''\n    style = '|' if len(data.splitlines()) > 1 else None\n    return dumper.represent_scalar('tag:yaml.org,2002:str', data, style=style)\nyaml.add_representer(str, yaml_str_presenter)",
+        "detail": "chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "PALETTE",
+        "kind": 5,
+        "importPath": "chromaterm.default_config",
+        "description": "chromaterm.default_config",
+        "peekOfCode": "PALETTE = Palette()\n# https://coolors.co/c68c6c-00e0d1-ef2e9f-5698c8-a35a00-df99f0-03d28d\nPALETTE.add_color('type-1', '#dc8968')\nPALETTE.add_color('type-2', '#00e0d1')\nPALETTE.add_color('type-3', '#ef2e9f')\nPALETTE.add_color('type-4', '#5698c8')\nPALETTE.add_color('type-5', '#a35a00')\nPALETTE.add_color('type-6', '#df99f0')\nPALETTE.add_color('type-7', '#03d28d')\n# https://coolors.co/c71800-c96901-ca9102-cab902-a2bc02-79bf02-28c501",
+        "detail": "chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_NUMBERS",
+        "kind": 5,
+        "importPath": "chromaterm.default_config",
+        "description": "chromaterm.default_config",
+        "peekOfCode": "RULE_NUMBERS = Rule(\n    r'\\b(?<!\\.)\\d+(\\.\\d+)?(?!\\.)\\b',\n    Color('f.type-1', palette=PALETTE),\n    'Numbers',\n)\nRULE_URL = Rule(\n    r'''(?ix)\\b\n    ((htt|ft|lda)ps?|telnet|ssh)://  # Scheme\n    ([-%:\\w\\\\/]{1,256}@)?  # User info\n    [-\\w]{1,63}(\\.[-\\w]{1,63}){0,126}(:\\d{1,5})?  # Host and port",
+        "detail": "chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_URL",
+        "kind": 5,
+        "importPath": "chromaterm.default_config",
+        "description": "chromaterm.default_config",
+        "peekOfCode": "RULE_URL = Rule(\n    r'''(?ix)\\b\n    ((htt|ft|lda)ps?|telnet|ssh)://  # Scheme\n    ([-%:\\w\\\\/]{1,256}@)?  # User info\n    [-\\w]{1,63}(\\.[-\\w]{1,63}){0,126}(:\\d{1,5})?  # Host and port\n    (/[-+=~@%&?#.:;,\\w\\\\/()]*)?  # Path, query, and fragment\n((?=[.:;,)])|\\b)  # Avoid highlighting trailing path characters by matching them in a lookahead\n''',\n    Color('f.type-4', palette=PALETTE),\n    'URL',",
+        "detail": "chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_IPV4",
+        "kind": 5,
+        "importPath": "chromaterm.default_config",
+        "description": "chromaterm.default_config",
+        "peekOfCode": "RULE_IPV4 = Rule(\n    r'\\b(?<!\\.)((25[0-5]|(2[0-4]|[0-1]?\\d)?\\d)\\.){3}(25[0-5]|(2[0-4]|[0-1]?\\d)?\\d)(/\\d+)?\\b',\n    Color('f.type-2', palette=PALETTE),\n    'IPv4',\n    exclusive=True,\n)\nRULE_IPV6 = Rule(\n    r'''(?ix)(?<![\\w:])(\n    ([\\da-f]{1,4}:){7}[\\da-f]{1,4}|  # 1:2:3:4:5:6:7:8\n    [\\da-f]{1,4}:(:[\\da-f]{1,4}){1,6}|  # 1::3:4:5:6:7:8",
+        "detail": "chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_IPV6",
+        "kind": 5,
+        "importPath": "chromaterm.default_config",
+        "description": "chromaterm.default_config",
+        "peekOfCode": "RULE_IPV6 = Rule(\n    r'''(?ix)(?<![\\w:])(\n    ([\\da-f]{1,4}:){7}[\\da-f]{1,4}|  # 1:2:3:4:5:6:7:8\n    [\\da-f]{1,4}:(:[\\da-f]{1,4}){1,6}|  # 1::3:4:5:6:7:8\n    ([\\da-f]{1,4}:){1,2}(:[\\da-f]{1,4}){1,5}|  # 1:2::4:5:6:7:8\n    ([\\da-f]{1,4}:){1,3}(:[\\da-f]{1,4}){1,4}|  # 1:2:3::5:6:7:8\n    ([\\da-f]{1,4}:){1,4}(:[\\da-f]{1,4}){1,3}|  # 1:2:3:4::6:7:8\n    ([\\da-f]{1,4}:){1,5}(:[\\da-f]{1,4}){1,2}|  # 1:2:3:4:5::7:8\n    ([\\da-f]{1,4}:){1,6}:[\\da-f]{1,4}|  # 1:2:3:4:5:6::8\n    ([\\da-f]{1,4}:){1,7}:|  # 1:2:3:4:5:6:7::",
+        "detail": "chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_MAC",
+        "kind": 5,
+        "importPath": "chromaterm.default_config",
+        "description": "chromaterm.default_config",
+        "peekOfCode": "RULE_MAC = Rule(\n    r'''(?ix)\\b(\n    (?<!:)([\\da-f]{1,2}:){5}[\\da-f]{1,2}(?!:)|  # 11:22:33:aa:bb:cc\n    (?<!\\.)([\\da-f]{4}\\.){2}[\\da-f]{4}(?!\\.)  # 1122.33aa.bbcc\n)\\b\n''',\n    Color('f.type-4', palette=PALETTE),\n    'MAC address',\n    exclusive=True,\n)",
+        "detail": "chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_DATE",
+        "kind": 5,
+        "importPath": "chromaterm.default_config",
+        "description": "chromaterm.default_config",
+        "peekOfCode": "RULE_DATE = Rule(\n    r'''(?ix)\\b(\n    (\\d{2}|\\d{4})(?P<sep1>[-/])(0?[1-9]|1[0-2])(?P=sep1)(3[0-1]|[1-2]\\d|0?[1-9])|  # YYYY-MM-DD, YY-MM-DD, YYYY/MM/DD, YY/MM/DD\n    (3[0-1]|[1-2]\\d|0?[1-9])(?P<sep2>[-/])(0?[1-9]|1[0-2])(?P=sep2)(\\d{2}|\\d{4})|  # DD-MM-YYYY, DD-MM-YY, DD/MM/YYYY, DD/MM/YY\n    (0?[1-9]|1[0-2])(?P<sep3>[-/])(3[0-1]|[1-2]\\d|0?[1-9])(?P=sep3)(\\d{2}|\\d{4})|  # MM-DD-YYYY, MM-DD-YY, MM/DD/YYYY, MM/DD/YY\n    (jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\\s+(  # MMM\n        (3[0-1]|[1-2]\\d|0?[1-9])(\\s+\\d{4})?|\\d{4}  # DD (YYYY)?, YYYY\n    )|(3[0-1]|[1-2]\\d|0?[1-9])\\s(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)(?!\\s+(3[0-1]|[1-2]\\d|0?[1-9])([^\\w:]|$))(\\s+\\d{4})?  # DD MMM (YYYY)?\n)((?=[\\WT_])|$)\n''',",
+        "detail": "chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_TIME",
+        "kind": 5,
+        "importPath": "chromaterm.default_config",
+        "description": "chromaterm.default_config",
+        "peekOfCode": "RULE_TIME = Rule(\n    r'''(?ix)(?<![\\.:])(\\b|(?<=T))\n    (2[0-3]|[0-1]\\d):[0-5]\\d  # Hours and minutes\n    (:[0-5]\\d([\\.,]\\d{3,6})?)?  # (Seconds (sub-seconds, 3 to 6 decimal places)?)?\n    ([\\-\\+](\\d{2}|\\d{4})|Z)?  # (Timezone)?\n(?![\\.:])\\b\n''',\n    Color('b.type-5', palette=PALETTE),\n    'Time',\n    exclusive=True,",
+        "detail": "chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_SIZE",
+        "kind": 5,
+        "importPath": "chromaterm.default_config",
+        "description": "chromaterm.default_config",
+        "peekOfCode": "RULE_SIZE = Rule(\n    r'(?i)\\b\\d+(\\.\\d+)?\\s?((([KMGTPEZY](i?B)?)|B)(ps)?)\\b',\n    {\n        0: Color('f.type-6', palette=PALETTE),\n        2: Color('bold'),\n    },\n    'Size, like 123G 123Gb 123Gib 1.23G 123Gbps',\n    exclusive=True,\n)\nRULE_GENERIC_BAD = Rule(",
+        "detail": "chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_GENERIC_BAD",
+        "kind": 5,
+        "importPath": "chromaterm.default_config",
+        "description": "chromaterm.default_config",
+        "peekOfCode": "RULE_GENERIC_BAD = Rule(\n    r'(?i)\\b(password|abnormal(ly)?|down|los(t|ing)|err(ors?)?|(den(y|ies|ied)?)|reject(ing|ed)?|drop(ped|s)?|(err\\-)?disabled?|(timed?\\-?out)|fail(s|ed|iure)?|disconnect(ed)?|unreachable|invalid|bad|notconnect|unusable|blk|inaccessible|wrong|collisions?|unsynchronized|mismatch|runts)\\b',\n    Color('f.status-1', palette=PALETTE),\n    'Generic - Bad',\n)\nRULE_GENERIC_AMBIGIOUS_BAD = Rule(\n    r'(?i)\\b(no(pe)?|exit(ed)?|reset(t?ing)?|discard(ed|ing)?|block(ed|ing)?|filter(ed|ing)?|stop(p(ed|ing))?|never|bad)\\b',\n    Color('f.status-3', palette=PALETTE),\n    'Generic - Ambigious bad',\n)",
+        "detail": "chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_GENERIC_AMBIGIOUS_BAD",
+        "kind": 5,
+        "importPath": "chromaterm.default_config",
+        "description": "chromaterm.default_config",
+        "peekOfCode": "RULE_GENERIC_AMBIGIOUS_BAD = Rule(\n    r'(?i)\\b(no(pe)?|exit(ed)?|reset(t?ing)?|discard(ed|ing)?|block(ed|ing)?|filter(ed|ing)?|stop(p(ed|ing))?|never|bad)\\b',\n    Color('f.status-3', palette=PALETTE),\n    'Generic - Ambigious bad',\n)\nRULE_GENERIC_NOT_TOO_BAD = Rule(\n    r'(?i)\\b(warnings?)\\b',\n    Color('f.status-4', palette=PALETTE),\n    'Generic - Not too bad',\n)",
+        "detail": "chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_GENERIC_NOT_TOO_BAD",
+        "kind": 5,
+        "importPath": "chromaterm.default_config",
+        "description": "chromaterm.default_config",
+        "peekOfCode": "RULE_GENERIC_NOT_TOO_BAD = Rule(\n    r'(?i)\\b(warnings?)\\b',\n    Color('f.status-4', palette=PALETTE),\n    'Generic - Not too bad',\n)\nRULE_GENERIC_AMBIGIOUS_GOOD = Rule(\n    r'(?i)\\b(ye(s|ah?|p)?|start(ed|ing)?|running|good)\\b',\n    Color('f.status-6', palette=PALETTE),\n    'Generic - Ambigious good',\n)",
+        "detail": "chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_GENERIC_AMBIGIOUS_GOOD",
+        "kind": 5,
+        "importPath": "chromaterm.default_config",
+        "description": "chromaterm.default_config",
+        "peekOfCode": "RULE_GENERIC_AMBIGIOUS_GOOD = Rule(\n    r'(?i)\\b(ye(s|ah?|p)?|start(ed|ing)?|running|good)\\b',\n    Color('f.status-6', palette=PALETTE),\n    'Generic - Ambigious good',\n)\nRULE_GENERIC_GOOD = Rule(\n    r'(?i)\\b(up|ok(ay)?|permit(ed|s)?|accept(s|ed)?|enabled?|online|succe((ss(ful|fully)?)|ed(ed)?)?|connect(ed)?|reachable|valid|forwarding|synchronized)\\b',\n    Color('f.status-7', palette=PALETTE),\n    'Generic - Good',\n)",
+        "detail": "chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "RULE_GENERIC_GOOD",
+        "kind": 5,
+        "importPath": "chromaterm.default_config",
+        "description": "chromaterm.default_config",
+        "peekOfCode": "RULE_GENERIC_GOOD = Rule(\n    r'(?i)\\b(up|ok(ay)?|permit(ed|s)?|accept(s|ed)?|enabled?|online|succe((ss(ful|fully)?)|ed(ed)?)?|connect(ed)?|reachable|valid|forwarding|synchronized)\\b',\n    Color('f.status-7', palette=PALETTE),\n    'Generic - Good',\n)\ndef generate_default_rules_yaml():\n    '''Returns a YAML string of the default configuration.'''\n    data = yaml.dump({'palette': PALETTE.colors}, sort_keys=False) + '\\n'\n    data += 'rules:\\n'\n    for rule in [",
+        "detail": "chromaterm.default_config",
+        "documentation": {}
+    },
+    {
+        "label": "GroupIndex",
+        "kind": 6,
+        "importPath": "chromaterm.pcre",
+        "description": "chromaterm.pcre",
+        "peekOfCode": "class GroupIndex(collections.UserDict):\n    '''Extracting the named groups table is too much work. This class patches\n    `__getitem__` to extract a named group on-demand (much easier to do).'''\n    def __init__(self, regex):\n        super().__init__()\n        self._regex = regex\n    def __getitem__(self, name):\n        group_id = PCRE2.pcre2_substring_number_from_name_8(\n            self._regex,\n            name.encode(),",
+        "detail": "chromaterm.pcre",
+        "documentation": {}
+    },
+    {
+        "label": "Pattern",
+        "kind": 6,
+        "importPath": "chromaterm.pcre",
+        "description": "chromaterm.pcre",
+        "peekOfCode": "class Pattern:\n    '''PCRE2 Pattern. Like that of Python's, if it was stripped of everything.'''\n    def __init__(self, pattern):\n        '''Constructor.\n        Args:\n            pattern (bytes): The regex pattern.\n        '''\n        error_buffer = create_string_buffer(4096)\n        error_code = c_uint32()\n        error_offset = c_size_t()",
+        "detail": "chromaterm.pcre",
+        "documentation": {}
+    },
+    {
+        "label": "PCRE2",
+        "kind": 5,
+        "importPath": "chromaterm.pcre",
+        "description": "chromaterm.pcre",
+        "peekOfCode": "PCRE2 = CDLL(find_library('pcre2-8'))\nPCRE2.pcre2_compile_8.restype = POINTER(c_char)\nPCRE2.pcre2_match_data_create_8.restype = POINTER(c_char)\n# PCRE2_NOTEMPTY_ATSTART = 4\nMATCH_OPTIONS = c_uint32(4)\nclass GroupIndex(collections.UserDict):\n    '''Extracting the named groups table is too much work. This class patches\n    `__getitem__` to extract a named group on-demand (much easier to do).'''\n    def __init__(self, regex):\n        super().__init__()",
+        "detail": "chromaterm.pcre",
+        "documentation": {}
+    },
+    {
+        "label": "PCRE2.pcre2_compile_8.restype",
+        "kind": 5,
+        "importPath": "chromaterm.pcre",
+        "description": "chromaterm.pcre",
+        "peekOfCode": "PCRE2.pcre2_compile_8.restype = POINTER(c_char)\nPCRE2.pcre2_match_data_create_8.restype = POINTER(c_char)\n# PCRE2_NOTEMPTY_ATSTART = 4\nMATCH_OPTIONS = c_uint32(4)\nclass GroupIndex(collections.UserDict):\n    '''Extracting the named groups table is too much work. This class patches\n    `__getitem__` to extract a named group on-demand (much easier to do).'''\n    def __init__(self, regex):\n        super().__init__()\n        self._regex = regex",
+        "detail": "chromaterm.pcre",
+        "documentation": {}
+    },
+    {
+        "label": "PCRE2.pcre2_match_data_create_8.restype",
+        "kind": 5,
+        "importPath": "chromaterm.pcre",
+        "description": "chromaterm.pcre",
+        "peekOfCode": "PCRE2.pcre2_match_data_create_8.restype = POINTER(c_char)\n# PCRE2_NOTEMPTY_ATSTART = 4\nMATCH_OPTIONS = c_uint32(4)\nclass GroupIndex(collections.UserDict):\n    '''Extracting the named groups table is too much work. This class patches\n    `__getitem__` to extract a named group on-demand (much easier to do).'''\n    def __init__(self, regex):\n        super().__init__()\n        self._regex = regex\n    def __getitem__(self, name):",
+        "detail": "chromaterm.pcre",
+        "documentation": {}
+    },
+    {
+        "label": "MATCH_OPTIONS",
+        "kind": 5,
+        "importPath": "chromaterm.pcre",
+        "description": "chromaterm.pcre",
+        "peekOfCode": "MATCH_OPTIONS = c_uint32(4)\nclass GroupIndex(collections.UserDict):\n    '''Extracting the named groups table is too much work. This class patches\n    `__getitem__` to extract a named group on-demand (much easier to do).'''\n    def __init__(self, regex):\n        super().__init__()\n        self._regex = regex\n    def __getitem__(self, name):\n        group_id = PCRE2.pcre2_substring_number_from_name_8(\n            self._regex,",
+        "detail": "chromaterm.pcre",
+        "documentation": {}
+    },
+    {
+        "label": "get_version",
+        "kind": 2,
+        "importPath": "setup",
+        "description": "setup",
+        "peekOfCode": "def get_version():\n    base_path = os.path.abspath(os.path.dirname(__file__))\n    module_path = os.path.join(base_path, 'chromaterm/__init__.py')\n    with open(module_path, 'r', encoding='utf-8') as file:\n        for line in file.readlines():\n            if line.startswith('__version__'):\n                return line.split('\"' if '\"' in line else \"'\")[1]\n        raise RuntimeError('Unable to find version string.')\ndef get_long_description():\n    with open('README.md', 'r', encoding='utf-8') as file:",
+        "detail": "setup",
+        "documentation": {}
+    },
+    {
+        "label": "get_long_description",
+        "kind": 2,
+        "importPath": "setup",
+        "description": "setup",
+        "peekOfCode": "def get_long_description():\n    with open('README.md', 'r', encoding='utf-8') as file:\n        return file.read()\nsetup(\n    name='chromaterm',\n    author='hSaria',\n    author_email='sariahajjar@gmail.com',\n    classifiers=[\n        'Intended Audience :: Information Technology',\n        'Intended Audience :: System Administrators',",
+        "detail": "setup",
+        "documentation": {}
+    }
+]

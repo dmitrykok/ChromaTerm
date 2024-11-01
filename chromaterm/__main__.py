@@ -1,11 +1,12 @@
 '''The command line utility for ChromaTerm'''
 # pylint: disable=import-outside-toplevel
+# pylint: disable=line-too-long
+# pep8: disable=line-too-long
+# flake8: noqa
 import argparse
 import atexit
-import io
 import os
 import re
-import select
 import signal
 import sys
 from ctypes.util import find_library
@@ -283,10 +284,12 @@ def process_input(config, data_fd, forward_fd=None, max_wait=None):
     '''
     # pylint: disable=too-many-branches
     # #93: Avoid BlockingIOError when output to non-blocking stdout is too fast
-    try:
-        getattr(os, 'set_blocking', lambda *_: None)(sys.stdout.fileno(), True)
-    except io.UnsupportedOperation:
-        pass
+    if sys.platform != 'win32':
+        import io
+        try:
+            getattr(os, 'set_blocking', lambda *_: None)(sys.stdout.fileno(), True)
+        except io.UnsupportedOperation:
+            pass
 
     if isinstance(data_fd, int):
         forward = lambda: os.write(data_fd, os.read(forward_fd, READ_SIZE))
@@ -381,14 +384,33 @@ def read_file(location):
         return None
 
 
-def read_ready(*fds, timeout=None):
-    '''Returns a list of file descriptors that are ready to be read.
+def read_ready(*fds, timeout=None):  # pylint: disable=unused-argument
+    '''Cross-platform function to check if file descriptors are ready for reading.'''
+    ready_fds = []
 
-    Args:
-        *fds (int): Integers that refer to the file descriptors.
-        timeout (float): Passed to `select.select`.
-    '''
-    return [] if not fds else select.select(fds, [], [], timeout)[0]
+    if sys.platform == 'win32':
+        # Windows-specific: Use msvcrt for non-blocking read readiness
+        import msvcrt
+        for fd in fds:
+            if fd == sys.stdin.fileno() and msvcrt.kbhit():
+                ready_fds.append(fd)
+            # For other types of FDs on Windows, you may need custom handling
+    else:
+        # Unix-specific: Use selectors for non-blocking readiness
+        import selectors
+        selector = selectors.DefaultSelector()
+        for fd in fds:
+            selector.register(fd, selectors.EVENT_READ)
+
+        events = selector.select(timeout)
+        for key, _ in events:
+            ready_fds.append(key.fileobj)
+
+        # Cleanup
+        for fd in fds:
+            selector.unregister(fd)
+
+    return ready_fds
 
 
 def signal_chromaterm_instances(sig):
@@ -451,8 +473,9 @@ def main(args=None, max_wait=None, write_default=True):
     # pylint: disable=expression-not-assigned
     args = args_init(args)
 
-    if args.reload:
-        return f'Processes reloaded: {signal_chromaterm_instances(signal.SIGUSR1)}'
+    if sys.platform != 'win32':
+        if args.reload:
+            return f'Processes reloaded: {signal_chromaterm_instances(signal.SIGUSR1)}'
 
     # Config file wasn't overridden; use default file
     if not args.config:
@@ -469,12 +492,16 @@ def main(args=None, max_wait=None, write_default=True):
     if args.benchmark:
         atexit.register(config.print_benchmark_results)
 
-    import chromaterm.platform.unix as platform
+    if sys.platform == 'win32':
+        import chromaterm.platform.windows as platform
+    else:
+        import chromaterm.platform.unix as platform
 
     if args.program:
         # ChromaTerm is spawning the program in a pty; stdin is forwarded
-        data_fd = platform.run_program([args.program] + args.arguments)
-        forward_fd = platform.get_stdin()
+        process, data_fd, forward_fd = platform.run_program([args.program] + args.arguments)
+        # data_fd = platform.run_program([args.program] + args.arguments)
+        # forward_fd = platform.get_stdin()
     else:
         # Data is being piped into ChromaTerm's stdin; no forwarding needed
         data_fd = platform.get_stdin()
@@ -492,19 +519,28 @@ def main(args=None, max_wait=None, write_default=True):
 
     # Ignore SIGINT (CTRL+C) and attach reload handler
     signal.signal(signal.SIGINT, signal.SIG_IGN)
-    signal.signal(signal.SIGUSR1, reload_config_handler)
+    if sys.platform != 'win32':
+        signal.signal(signal.SIGUSR1, reload_config_handler)
 
     try:
         # Begin processing the data (blocking operation)
         process_input(config, data_fd, forward_fd, max_wait)
     except BrokenPipeError:
-        # Surpress the implicit flush that Python runs on exit
+        # Suppress the implicit flush that Python runs on exit
         sys.stdout.flush = lambda: None
     finally:
         # Close data_fd to signal to the child process that we're done
-        os.close(data_fd) if isinstance(data_fd, int) else data_fd.close()
+        if isinstance(data_fd, tuple):
+            for fd in data_fd:
+                os.close(fd) if isinstance(fd, int) else fd.close()
+        else:
+            os.close(data_fd) if isinstance(data_fd, int) else data_fd.close()
 
-    return os.wait()[1] >> 8 if args.program else 0
+    # Wait for process completion only if on Windows
+    if sys.platform == 'win32' and args.program:
+        return process.wait()
+    else:
+        return os.wait()[1] >> 8 if args.program else 0
 
 
 if __name__ == '__main__':

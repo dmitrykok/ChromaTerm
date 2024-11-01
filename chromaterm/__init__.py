@@ -1,9 +1,13 @@
 '''Color your output to terminal'''
+# pylint: disable=import-outside-toplevel
+# pylint: disable=line-too-long
+# pep8: disable=line-too-long
+# flake8: noqa
 import re
 import sys
 import time
 
-__version__ = '0.10.8-dev'
+__version__ = '0.10.13-dev'
 
 # Color types, their color codes if it's style, their default reset codes, and
 # RegEx's for detecting their color type.
